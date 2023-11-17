@@ -12,4 +12,8 @@ public class DockerController {
 		return "This is a Simple Spring Boot Application";
 	}
 }
-    
+
+
+
+
+         
